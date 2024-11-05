@@ -4,7 +4,7 @@
 
 Switch Term
 
-[Winter 2024 / 2025](https://cw.fel.cvut.cz/wiki/courses/b0b99prpa/start)[Winter 2023 / 2024](/b231/courses/b0b99prpa/start)[Winter 2022 / 2023](/b221/courses/b0b99prpa/start)[Winter 2021 / 2022](/b211/courses/b0b99prpa/start)[Winter 2020 / 2021](/b201/courses/b0b99prpa/start)[Winter 2019 / 2020](/b191/courses/b0b99prpa/start)[Winter 2018 / 2019](/b181/courses/b0b99prpa/start)
+[Winter 2024 / 2025](https://cw.fel.cvut.cz/wiki/courses/b0b99prpa/start)[Winter 2023 / 2024](https://cw.fel.cvut.cz/b231/courses/b0b99prpa/start)[Winter 2022 / 2023](https://cw.fel.cvut.cz/b221/courses/b0b99prpa/start)[Winter 2021 / 2022](https://cw.fel.cvut.cz/b211/courses/b0b99prpa/start)[Winter 2020 / 2021](https://cw.fel.cvut.cz/b201/courses/b0b99prpa/start)[Winter 2019 / 2020](https://cw.fel.cvut.cz/b191/courses/b0b99prpa/start)[Winter 2018 / 2019](https://cw.fel.cvut.cz/b181/courses/b0b99prpa/start)
 
 Search
 
@@ -83,20 +83,20 @@ Navigation
 All courses
 
 *   [Winter 2024 / 2025](https://cw.fel.cvut.cz/wiki/courses/start)
-*   [Summer 2023 / 2024](/b232/courses/start)
-*   [Winter 2023 / 2024](/b231/courses/start)
-*   [Summer 2022 / 2023](/b222/courses/start)
-*   [Winter 2022 / 2023](/b221/courses/start)
-*   [Summer 2021 / 2022](/b212/courses/start)
-*   [Winter 2021 / 2022](/b211/courses/start)
-*   [Summer 2020 / 2021](/b202/courses/start)
-*   [Winter 2020 / 2021](/b201/courses/start)
-*   [Summer 2019 / 2020](/b192/courses/start)
-*   [Winter 2019 / 2020](/b191/courses/start)
-*   [Summer 2018 / 2019](/b182/courses/start)
-*   [Winter 2018 / 2019](/b181/courses/start)
-*   [Summer 2017 / 2018](/b172/courses/start)
-*   [Older](/old/courses/start)
+*   [Summer 2023 / 2024](https://cw.fel.cvut.cz/b232/courses/start)
+*   [Winter 2023 / 2024](https://cw.fel.cvut.cz/b231/courses/start)
+*   [Summer 2022 / 2023](https://cw.fel.cvut.cz/b222/courses/start)
+*   [Winter 2022 / 2023](https://cw.fel.cvut.cz/b221/courses/start)
+*   [Summer 2021 / 2022](https://cw.fel.cvut.cz/b212/courses/start)
+*   [Winter 2021 / 2022](https://cw.fel.cvut.cz/b211/courses/start)
+*   [Summer 2020 / 2021](https://cw.fel.cvut.cz/b202/courses/start)
+*   [Winter 2020 / 2021](https://cw.fel.cvut.cz/b201/courses/start)
+*   [Summer 2019 / 2020](https://cw.fel.cvut.cz/b192/courses/start)
+*   [Winter 2019 / 2020](https://cw.fel.cvut.cz/b191/courses/start)
+*   [Summer 2018 / 2019](https://cw.fel.cvut.cz/b182/courses/start)
+*   [Winter 2018 / 2019](https://cw.fel.cvut.cz/b181/courses/start)
+*   [Summer 2017 / 2018](https://cw.fel.cvut.cz/b172/courses/start)
+*   [Older](https://cw.fel.cvut.cz/old/courses/start)
 
 - - -
 
