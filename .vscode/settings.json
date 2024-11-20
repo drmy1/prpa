@@ -11,6 +11,9 @@
         "__file.h": "c",
         "__fpos64_t.h": "c",
         "__fpos_t.h": "c",
-        "cookie_io_functions_t.h": "c"
+        "cookie_io_functions_t.h": "c",
+        "stdlib.h": "c",
+        "string_view": "c",
+        "initializer_list": "c"
     }
 }
